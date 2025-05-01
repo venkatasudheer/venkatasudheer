@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @venkatasudheer
-- 👀 I’m interested in Software Developer 
-- 🌱 I’m currently learning Python (AI)
+- 👀 I’m Team Lead & AI Engineer 
+- 🌱 I’m currently working in Python (AI)
 - 📫 How to reach me +91-8688088368
 
 <!---
